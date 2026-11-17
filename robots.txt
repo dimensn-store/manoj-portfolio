@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dimensn-store.github.io/manoj-portfolio/sitemap.xml
